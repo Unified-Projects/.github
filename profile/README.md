@@ -1,3 +1,4 @@
+![](banner.gif)
 # Unified-Projects :computer:
 
 Welcome to Unified-Projects! Here, we delve into the dynamic world of software, crafting bespoke solutions that unlock the full potential of businesses, large and small. From the intricacies of NES emulators to the complexities of operating systems and chess engines, our journey is marked by a passionate pursuit of innovation. With a focus on tailoring solutions to your unique needs, we transform ideas into reality, empowering your organisation to thrive in the digital age.
